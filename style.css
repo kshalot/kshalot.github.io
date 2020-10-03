@@ -1,0 +1,19 @@
+body {
+	max-width: 1000px;
+	margin-left: auto;
+	margin-right: auto;
+	background: white;
+}
+
+.header {
+	margin-bottom: 4rem;
+	text-align: center;
+	text-decoration: underline;
+	color: indigo;
+}
+
+.peng {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
